@@ -31,7 +31,7 @@ Watch the video on YouTube for instructions:
 
 - [ ] Python
     - [x] [Python Full Course 4 Hours - FreeCodeCamp on YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) 
-    - [ ] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
+    - [x] [Advanced Python - Playlist on YouTube (Python Engineer)](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
     - [ ] [Numpy - Free Udemy Course](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)
     - [ ] Matplotlib
         - [ ] [sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) or
